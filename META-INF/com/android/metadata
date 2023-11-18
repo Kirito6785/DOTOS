@@ -1,0 +1,9 @@
+ota-property-files=metadata:69:311         
+ota-required-cache=0
+ota-type=BLOCK
+post-build=google/walleye/walleye:8.1.0/OPM1.171019.011/4448085:user/release-keys
+post-build-incremental=eng.hello.20231107.080237
+post-sdk-level=30
+post-security-patch-level=2021-11-05
+post-timestamp=1699344017
+pre-device=RMX2001
